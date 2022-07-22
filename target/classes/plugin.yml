@@ -1,0 +1,16 @@
+name: MeteoritesPro
+version: 1.5.3
+main: me.olipulse.meteoritespro.MeteoritesPro
+api-version: 1.14
+softdepend: [WorldGuard, WorldEdit, GriefPrevention]
+depend:
+  - Kingdoms
+authors: [OliPulse]
+description: A highly configurable meteorites plugin.
+commands:
+  mp:
+    usage: /<command>
+    description: The main MeteoritesPro Command
+  meteoritespro:
+    usage: /<command>
+    description: The main MeteoritesPro Command
